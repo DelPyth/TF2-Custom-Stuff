@@ -3,7 +3,7 @@ Mod Prefixes:
 	S1_			:	Might work on all sv_pure servers, but don't get your hopes up.
 	S2_			:	Works everywhere.
 	SV_			:	Valve server allows most if not all parts of the mod.
-	SS_			:	Singleplayer only/Not needed or used in multuplayer.
+	SS_			:	Singleplayer only/Not needed or used in multiplayer.
 	Mod_		:	Don't fully know what it reacts to, try for yourself.
 
 Folders:
